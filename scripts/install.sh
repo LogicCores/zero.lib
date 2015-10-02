@@ -29,5 +29,9 @@ function init {
 
 	Install $@
 
+#    "scripts": {
+#        "install": "cd scripts; npm install --production; ./install.sh"
+#    },
+
 }
 init $@
